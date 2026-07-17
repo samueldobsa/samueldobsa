@@ -51,6 +51,12 @@ My work covers the full development lifecycle — from technical analysis and AP
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## AI-assisted development
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+
 ## What I work with
 
 - Java and Spring Boot backend applications
