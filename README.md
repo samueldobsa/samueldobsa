@@ -1,12 +1,10 @@
-## Hi there 👋
-
 # Hi, I'm Samuel 👋
 
-### Java & Spring Boot Developer
+### Java & Spring Boot Backend Developer
 
-I focus on building clean, maintainable backend systems, REST APIs, and secure application integrations.
+I build secure and maintainable backend applications, REST APIs, and enterprise integrations.
 
-I enjoy solving real-world problems, improving existing systems, and turning technical requirements into reliable software.
+My work covers the full development lifecycle — from technical analysis and API design to implementation, testing, Docker deployment, and production troubleshooting.
 
 ## About me
 
@@ -26,6 +24,9 @@ I enjoy solving real-world problems, improving existing systems, and turning tec
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
 
