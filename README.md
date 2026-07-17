@@ -27,6 +27,7 @@ My work covers the full development lifecycle — from technical analysis and AP
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_Specification-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 ### Databases
 
@@ -48,6 +49,7 @@ My work covers the full development lifecycle — from technical analysis and AP
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -60,7 +62,7 @@ My work covers the full development lifecycle — from technical analysis and AP
 ## What I work with
 
 - Java and Spring Boot backend applications
-- REST API design and OpenAPI documentation
+- REST API design, OpenAPI contracts, and Swagger documentation
 - Spring Security, OAuth 2.0, OIDC, and JWT
 - JPA, Hibernate, SQL, and database migrations
 - Dockerized development and deployment environments
