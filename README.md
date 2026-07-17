@@ -53,9 +53,9 @@ My work covers the full development lifecycle — from technical analysis and AP
 
 ## AI-assisted development
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 
 ## What I work with
 
